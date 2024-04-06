@@ -37,6 +37,7 @@ I am a beginer in IT field <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - :zap: In my free time, I take some relax at Hackerank and Leetcode and playing game.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://twitter.com/dmaster26_)
+- 📧 My e-mail: <a>huutri10a3vvk@gmail.com</a>
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
