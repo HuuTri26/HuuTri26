@@ -107,26 +107,38 @@
 
 ## 🚀 Tech Stack in Action
 
-    class FullStackDeveloper:
+   # 💻 Welcome to my coding journey!
 
+class HuuTriDev:
     def __init__(self):
-        self.name = "Huu Tri"
-        self.role = "Computer Science Student"
-        self.languages = ["Java", "Python", "JavaScript", "HTML", "CSS"]
-        self.frameworks = ["Spring Boot", "React", "Android", "Firebase"]
-        self.databases = ["PostgreSQL", "MySQL", "Firebase"]
-        self.tools = ["Docker", "Git", "Google Colab", "Android Studio"]
+        self.status = "🎓 Learning & Building"
+        self.current_location = "🏫 PTIT, Vietnam"
         
-    def current_projects(self):
-        return [
-            "Android app with Firebase integration",
-            "Full-stack web application",
-            "Data analysis in Google Colab",
-            "Containerized microservices"
+    @property
+    def skills(self):
+        return {
+            "💪 Strong": ["Java", "Python", "Android Development"],
+            "📈 Growing": ["React", "Spring Boot", "Docker"],
+            "🎯 Next": ["AWS", "Machine Learning", "System Design"]
+        }
+    
+    def daily_routine(self):
+        activities = [
+            "☕ Coffee first",
+            "💻 Code something awesome", 
+            "📚 Learn new tech",
+            "🔧 Debug mysterious errors",
+            "🎮 Relax with some games"
         ]
+        return " → ".join(activities)
+    
+    def life_motto(self):
+        return "🚀 Code, Learn, Repeat!"
 
-    def learning_goals(self):
-        return ["Cloud Computing", "Machine Learning", "DevOps", "System Design"]
+# Let's connect! 🤝
+dev = HuuTriDev()
+print(f"Current mission: {dev.daily_routine()}")
+
 
 # Test the class
 developer = FullStackDeveloper()
