@@ -81,9 +81,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuuTri26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=HuuTri26&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuuTri26&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
@@ -109,24 +107,33 @@
 
 ## 🚀 Tech Stack in Action
 
-class FullStackDeveloper:
-def init(self):
-self.name = "Huu Tri"
-self.role = "Computer Science Student"
-self.languages = ["Java", "Python", "JavaScript", "HTML", "CSS"]
-self.frameworks = ["Spring Boot", "React", "Android", "Firebase"]
-self.databases = ["PostgreSQL", "MySQL", "Firebase"]
-self.tools = ["Docker", "Git", "Google Colab", "Android Studio"]
-def current_projects(self):
-    return [
-        "Android app with Firebase integration",
-        "Full-stack web application",
-        "Data analysis in Google Colab",
-        "Containerized microservices"
-    ]
+    class FullStackDeveloper:
 
-def learning_goals(self):
-    return ["Cloud Computing", "Machine Learning", "DevOps", "System Design"]
+    def __init__(self):
+        self.name = "Huu Tri"
+        self.role = "Computer Science Student"
+        self.languages = ["Java", "Python", "JavaScript", "HTML", "CSS"]
+        self.frameworks = ["Spring Boot", "React", "Android", "Firebase"]
+        self.databases = ["PostgreSQL", "MySQL", "Firebase"]
+        self.tools = ["Docker", "Git", "Google Colab", "Android Studio"]
+        
+    def current_projects(self):
+        return [
+            "Android app with Firebase integration",
+            "Full-stack web application",
+            "Data analysis in Google Colab",
+            "Containerized microservices"
+        ]
+
+    def learning_goals(self):
+        return ["Cloud Computing", "Machine Learning", "DevOps", "System Design"]
+
+# Test the class
+developer = FullStackDeveloper()
+print("Name:", developer.name)
+print("Current Projects:", developer.current_projects())
+print("Learning Goals:", developer.learning_goals())
+
 
 ## 📈 Activity & Contributions
 
@@ -161,7 +168,7 @@ I'm always excited to discuss technology, collaborate on projects, or explore ne
   
   ---
   
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  <i>⚡ "Try hard day by day" - HuuTri26</i>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
