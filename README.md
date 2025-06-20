@@ -109,31 +109,38 @@
 
    # 💻 Welcome to my coding journey!
 
+# 💻 Welcome to my coding journey!
+
     class HuuTriDev:
-    def __init__(self):
-        self.status = "🎓 Learning & Building"
-        self.current_location = "🏫 PTIT, Vietnam"
+      def __init__(self):
+          self.status = "🎓 Learning & Building"
+          self.current_location = "🏫 PTIT, Vietnam"
         
-    @property
-    def skills(self):
-        return {
-            "💪 Strong": ["Java", "Python", "Android Development"],
-            "📈 Growing": ["React", "Spring Boot", "Docker"],
-            "🎯 Next": ["AWS", "Machine Learning", "System Design"]
-        }
+      @property
+      def skills(self):
+          return {
+              "💪 Strong": ["Java", "Python", "Android Development"],
+              "📈 Growing": ["React", "Spring Boot", "Docker"],
+              "🎯 Next": ["AWS", "Machine Learning", "System Design"]
+          }
     
-    def daily_routine(self):
-        activities = [
-            "☕ Coffee first",
-            "💻 Code something awesome", 
-            "📚 Learn new tech",
-            "🔧 Debug mysterious errors",
-            "🎮 Relax with some games"
-        ]
-        return " → ".join(activities)
+      def daily_routine(self):
+          activities = [
+              "☕ Coffee first",
+              "💻 Code something awesome", 
+              "📚 Learn new tech",
+              "🔧 Debug mysterious errors",
+              "🎮 Relax with some games"
+          ]
+          return " → ".join(activities)
     
-    def life_motto(self):
-        return "🚀 Code, Learn, Repeat!"
+      def life_motto(self):
+          return "🚀 Code, Learn, Repeat!"
+
+# Let's connect! 🤝
+dev = HuuTriDev()
+print(f"Current mission: {dev.daily_routine()}")
+
 
 # Let's connect! 🤝
 dev = HuuTriDev()
