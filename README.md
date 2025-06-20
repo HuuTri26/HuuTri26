@@ -3,8 +3,8 @@
     Hello, I'm Huu Tri 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <h3>🎓 Computer Science Student | 💻 Aspiring Full-Stack Developer</h3>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h3>🎓 Computer Science Student | 💻 Full-Stack Developer | 📱 Mobile App Developer</h3>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120"/>
   
   <div id="badges">
     <a href="mailto:huutri10a3vvk@gmail.com">
@@ -24,24 +24,26 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;Full-Stack+Developer;Problem+Solver;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Computer+Science+Student;Full-Stack+Developer;Android+Developer;Python+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
 
 🎓 **Computer Science Student** at **Posts and Telecommunications Institute of Technology (PTIT)**
 
-- 🔭 Currently working on full-stack web development projects using **Java Spring Boot** and **React**
-- 🌱 Learning advanced concepts in **Data Structures & Algorithms**, **System Design**, and **Cloud Computing**
-- 💡 Passionate about solving complex problems and building efficient, scalable applications
-- 🎯 Goal: Become a proficient **Full-Stack Developer** and contribute to meaningful projects
-- ⚡ Fun fact: I enjoy coding challenges on **HackerRank** and **LeetCode** in my free time
+- 🔭 Currently developing **Android applications** with **Java** and **Firebase**, focusing on **RecyclerView** and adapters[1]
+- 🐍 Working with **Python** for data analysis and automation in **Google Colab**
+- 🌱 Learning **full-stack development** with **Spring Boot**, **React**, and **PostgreSQL**
+- 🐳 Exploring **containerization** with **Docker** for scalable applications
+- 💡 Passionate about solving complex problems and building efficient solutions
+- 🎯 Goal: Become a proficient **Full-Stack Developer** specializing in **mobile and web applications**
 
 ## 🛠️ Technical Skills
 
 ### Programming Languages
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -49,37 +51,118 @@
 
 ### Frameworks & Libraries
 <div>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </div>
 
-### Databases & Tools
+### Databases & DevOps
 <div>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</div>
+
+### Tools & Platforms
+<div>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
 </div>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HuuTri26&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuuTri26&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HuuTri26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuuTri26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HuuTri26&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=HuuTri26&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-## 🏆 Achievements & Goals
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuuTri26&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
 
-- 📚 **Academic Focus**: Maintaining strong GPA while developing practical coding skills
-- 💻 **Coding Practice**: Regular problem-solving on competitive programming platforms
-- 🎯 **Career Goal**: Seeking **Software Developer Intern** or **Junior Developer** positions
-- 🌟 **Open Source**: Planning to contribute to open-source projects in 2025
+## 🏆 Current Projects & Achievements
 
-## 🚀 Current Learning Path
+### 📱 **Mobile Development**
+- 🚀 Developing Android applications with **Java** and **Firebase**
+- 🎯 Specializing in **RecyclerView** optimization and **custom adapters**
+- 📊 Implementing real-time data synchronization with **Firebase**
 
+### 🐍 **Python & Data Science**
+- 📈 Data analysis and visualization projects in **Google Colab**[2]
+- 🤖 Automating workflows with Python scripts
+- 📚 Learning machine learning fundamentals
+
+### 🌐 **Full-Stack Development**
+- ⚡ Building REST APIs with **Spring Boot**
+- 🎨 Creating responsive UIs with **React**
+- 🐳 Containerizing applications with **Docker**[5]
+- 🗄️ Database design and optimization with **PostgreSQL**[5]
+
+## 🚀 Tech Stack in Action
+
+class FullStackDeveloper:
+def init(self):
+self.name = "Huu Tri"
+self.role = "Computer Science Student"
+self.languages = ["Java", "Python", "JavaScript", "HTML", "CSS"]
+self.frameworks = ["Spring Boot", "React", "Android", "Firebase"]
+self.databases = ["PostgreSQL", "MySQL", "Firebase"]
+self.tools = ["Docker", "Git", "Google Colab", "Android Studio"]
+def current_projects(self):
+    return [
+        "Android app with Firebase integration",
+        "Full-stack web application",
+        "Data analysis in Google Colab",
+        "Containerized microservices"
+    ]
+
+def learning_goals(self):
+    return ["Cloud Computing", "Machine Learning", "DevOps", "System Design"]
+
+## 📈 Activity & Contributions
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HuuTri26&theme=tokyonight" alt="Profile Summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HuuTri26&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HuuTri26&theme=tokyonight" alt="Most Commit Language"/>
+</div>
+
+## 🎯 2025 Goals
+
+- 🏆 Complete 3+ full-stack projects with modern tech stack
+- 📱 Launch an Android application on Google Play Store  
+- 🌟 Contribute to open-source projects
+- 💼 Secure a **Software Developer Internship**
+- 🎓 Maintain academic excellence while building practical skills
+
+## 📬 Let's Connect!
+
+I'm always excited to discuss technology, collaborate on projects, or explore new opportunities!
+
+<div align="center">
+  
+  **📧 Email**: [huutri10a3vvk@gmail.com](mailto:huutri10a3vvk@gmail.com)
+  
+  **🐦 Twitter**: [@dmaster26_](https://twitter.com/dmaster26_)
+  
+  **📍 Location**: Vietnam 🇻🇳
+  
+  ---
+  
+  <i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  
+</div>
