@@ -109,7 +109,7 @@
 
    # 💻 Welcome to my coding journey!
 
-class HuuTriDev:
+    class HuuTriDev:
     def __init__(self):
         self.status = "🎓 Learning & Building"
         self.current_location = "🏫 PTIT, Vietnam"
