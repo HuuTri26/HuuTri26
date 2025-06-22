@@ -135,17 +135,6 @@
       def life_motto(self):
           return "🚀 Code, Learn, Repeat!"
 
-# Let's connect! 🤝
-dev = HuuTriDev()
-print(f"Current mission: {dev.daily_routine()}")
-
-
-# Let's connect! 🤝
-dev = HuuTriDev()
-print(f"Current mission: {dev.daily_routine()}")
-
-
-
 
 ## 📈 Activity & Contributions
 
