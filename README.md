@@ -107,8 +107,6 @@
 
 ## 🚀 Tech Stack in Action
 
-   # 💻 Welcome to my coding journey!
-
 # 💻 Welcome to my coding journey!
 
     class HuuTriDev:
@@ -147,11 +145,6 @@ dev = HuuTriDev()
 print(f"Current mission: {dev.daily_routine()}")
 
 
-# Test the class
-developer = FullStackDeveloper()
-print("Name:", developer.name)
-print("Current Projects:", developer.current_projects())
-print("Learning Goals:", developer.learning_goals())
 
 
 ## 📈 Activity & Contributions
