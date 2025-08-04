@@ -31,7 +31,7 @@
 
 🎓 **Information Sercuriry** at **Posts and Telecommunications Institute of Technology (PTIT)**
 
-- 🔭 Currently developing **Android applications** with **Java** and **Firebase**, focusing on **RecyclerView** and adapters[1]
+- 🔭 Currently developing **Android applications** with **Java** and **Firebase**, focusing on **RecyclerView** and adapters
 - 🐍 Working with **Python** for data analysis and automation in **Google Colab**
 - 🌱 Learning **full-stack development** with **Spring Boot**, **React**, and **PostgreSQL**
 - 🐳 Exploring **containerization** with **Docker** for scalable applications
@@ -90,15 +90,15 @@
 - 📊 Implementing real-time data synchronization with **Firebase**
 
 ### 🐍 **Python & Data Science**
-- 📈 Data analysis and visualization projects in **Google Colab**[2]
+- 📈 Data analysis and visualization projects in **Google Colab**
 - 🤖 Automating workflows with Python scripts
 - 📚 Learning machine learning fundamentals
 
 ### 🌐 **Full-Stack Development**
 - ⚡ Building REST APIs with **Spring Boot**
 - 🎨 Creating responsive UIs with **React**
-- 🐳 Containerizing applications with **Docker**[5]
-- 🗄️ Database design and optimization with **PostgreSQL**[5]
+- 🐳 Containerizing applications with **Docker**
+- 🗄️ Database design and optimization with **PostgreSQL**
 
 ## 🚀 Tech Stack in Action
 
