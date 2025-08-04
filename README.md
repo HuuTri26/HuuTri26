@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **Computer Science Student** at **Posts and Telecommunications Institute of Technology (PTIT)**
+🎓 **Information Sercuriry** at **Posts and Telecommunications Institute of Technology (PTIT)**
 
 - 🔭 Currently developing **Android applications** with **Java** and **Firebase**, focusing on **RecyclerView** and adapters[1]
 - 🐍 Working with **Python** for data analysis and automation in **Google Colab**
