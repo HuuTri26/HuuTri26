@@ -3,7 +3,7 @@
     Hello, I'm Huu Tri 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <h3>🎓 Computer Science Student | 💻 Full-Stack Developer | 📱 Mobile App Developer</h3>
+  <h3>🎓 Information Sercurity Student PTIT | 💻 Full-Stack Developer | 📱 Mobile App Developer</h3>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120"/>
   
   <div id="badges">
